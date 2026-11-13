@@ -22,7 +22,7 @@ def main():
     # Etiqueta con el saludo en grande
     label = tk.Label(
         frame,
-        text="¡Hola Elías e Inés!",
+        text="¡Hola Elías e Inés! 🥲",
         font=("Segoe UI", 36, "bold"),
         fg="#1e293b",
         bg="#f0f4f8"
