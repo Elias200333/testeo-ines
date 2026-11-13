@@ -3,14 +3,14 @@ import tkinter as tk
 def main():
     # Crear la ventana principal
     root = tk.Tk()
-    root.title("Testeo Elías")
-    root.geometry("500x300")
+    root.title("Testeo Elías e Inés")
+    root.geometry("600x320")
     root.configure(bg="#f0f4f8")
 
     # Centrar la ventana en la pantalla
     root.update_idletasks()
-    width = 500
-    height = 300
+    width = 600
+    height = 320
     x = (root.winfo_screenwidth() // 2) - (width // 2)
     y = (root.winfo_screenheight() // 2) - (height // 2)
     root.geometry(f"{width}x{height}+{x}+{y}")
@@ -22,7 +22,7 @@ def main():
     # Etiqueta con el saludo en grande
     label = tk.Label(
         frame,
-        text="¡Hola Elías!",
+        text="¡Hola Elías e Inés!",
         font=("Segoe UI", 36, "bold"),
         fg="#1e293b",
         bg="#f0f4f8"
