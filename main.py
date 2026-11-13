@@ -20,7 +20,7 @@ EMOJI_BASE64 = (
 def main():
     # Crear la ventana principal
     root = tk.Tk()
-    root.title("Testeo Elías e Inés")
+    root.title("Testeo Elías Inés y froilan")
     root.geometry("640x340")
     root.configure(bg="#f0f4f8")
 
