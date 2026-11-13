@@ -20,3 +20,4 @@ python main.py
 ## 📚 Documentación de Git
 
 Consulta [GUIA_GITHUB.md](GUIA_GITHUB.md) para ver la guía completa paso a paso sobre cómo sincronizarte, crear ramas y publicar cambios en GitHub.
+

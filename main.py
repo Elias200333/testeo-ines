@@ -3,7 +3,7 @@ import tkinter as tk
 def main():
     # Crear la ventana principal
     root = tk.Tk()
-    root.title("Testeo Inés")
+    root.title("Testeo Elías")
     root.geometry("500x300")
     root.configure(bg="#f0f4f8")
 
@@ -22,7 +22,7 @@ def main():
     # Etiqueta con el saludo en grande
     label = tk.Label(
         frame,
-        text="¡Hola Inés!",
+        text="¡Hola Elías!",
         font=("Segoe UI", 36, "bold"),
         fg="#1e293b",
         bg="#f0f4f8"

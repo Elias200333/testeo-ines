@@ -143,3 +143,4 @@ Hay dos formas estándar de colaborar en GitHub:
 2. **Commits pequeños y frecuentes**: Es mucho mejor hacer 5 commits con propósitos claros ("añadir botón", "arreglar color de fondo") que un commit gigante con 200 cambios ("arreglos varios").
 3. **Escribe mensajes de commit claros**: Explica qué hiciste y por qué.
 4. **Nunca compartas contraseñas ni claves API**: Usa archivos `.gitignore` para no subir archivos sensibles o temporales.
+
